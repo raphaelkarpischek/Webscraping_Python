@@ -1,6 +1,6 @@
 # Webscraping_Python
 
-Projeto Webscraping - Elaboração de planilha excel com produtos de um e-commerce desenvolvido em Python </br>
+Projeto Webscraping desenvolvido em Python - Elaboração de planilha excel com produtos de um e-commerce  </br>
 
 Site do e-commerce utilizado neste projeto: https://www.tauste.com.br/
 

@@ -20,4 +20,4 @@ OBS: Caso seja exibido um erro relacionado ao chromedriver.exe, será necessári
 <h1>Rodando a aplicação</h1>
 - Simplesmente clicar 2x no arquivo index.py, ou através do terminal, execute o comando: python index.py </br>
 - Selecione a opção desejada nos menus, digitando o número da opção + ENTER </br>
-- Após o término do rocessamento, será gerado um arquivo .XLSX na mesma pasta onde se encontra o arquivo index.py, com todos os produtos da categoria escolhida! =) </br>
+- Após o término do processamento, será gerado um arquivo .XLSX na mesma pasta onde se encontra o arquivo index.py, com todos os produtos da categoria escolhida! =) </br>
